@@ -4,8 +4,6 @@
 
 **Expo App Link:** https://emogo-app--9r0it7qey8.expo.app
 
-> ⚠️ 部署後請更新此連結
-
 ---
 
 ## 📱 App 功能
