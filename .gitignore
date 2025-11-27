@@ -1,0 +1,28 @@
+# 依賴套件
+node_modules/
+
+# 部署產生的檔案
+dist/
+
+# Expo
+.expo/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# macOS
+.DS_Store
+
+# 環境變數
+.env
+.env.local
+
+# 編輯器
+.idea/
+.vscode/
+*.swp
+*.swo
+

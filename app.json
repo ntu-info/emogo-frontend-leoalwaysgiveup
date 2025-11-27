@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "emogo-app",
+    "slug": "emogo-app",
+    "android": {
+      "package": "com.emogo.app"
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "baa6b05a-bdf0-423e-99b5-44963686910e"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.emogo.app",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "owner": "leonevergiveup"
+  }
+}

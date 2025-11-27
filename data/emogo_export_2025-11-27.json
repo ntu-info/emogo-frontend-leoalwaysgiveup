@@ -1,0 +1,318 @@
+{
+  "exportedAt": "2025-11-27T06:32:26.206Z",
+  "appName": "EmoGo",
+  "mood_entries": {
+    "dataType": "sentiment_questionnaire",
+    "description": "情緒問卷記錄 (structured active/foreground data)",
+    "records": [
+      {
+        "id": 1764225114449,
+        "timestamp": "2025-11-27T06:31:54.449Z",
+        "mood_score": 1,
+        "energy_level": 1,
+        "stress_level": 1,
+        "notes": ""
+      },
+      {
+        "id": 1764225113072,
+        "timestamp": "2025-11-27T06:31:53.072Z",
+        "mood_score": 1,
+        "energy_level": 1,
+        "stress_level": 1,
+        "notes": ""
+      },
+      {
+        "id": 1764222309360,
+        "timestamp": "2025-11-27T05:45:09.360Z",
+        "mood_score": 1,
+        "energy_level": 1,
+        "stress_level": 1,
+        "notes": ""
+      },
+      {
+        "id": 1764222307378,
+        "timestamp": "2025-11-27T05:45:07.377Z",
+        "mood_score": 1,
+        "energy_level": 1,
+        "stress_level": 1,
+        "notes": ""
+      },
+      {
+        "id": 1764203795133,
+        "timestamp": "2025-11-27T00:36:35.133Z",
+        "mood_score": 1,
+        "energy_level": 1,
+        "stress_level": 1,
+        "notes": ""
+      },
+      {
+        "id": 1764203792905,
+        "timestamp": "2025-11-27T00:36:32.904Z",
+        "mood_score": 1,
+        "energy_level": 1,
+        "stress_level": 1,
+        "notes": ""
+      },
+      {
+        "id": 1764168984795,
+        "timestamp": "2025-11-26T14:56:24.795Z",
+        "mood_score": 1,
+        "energy_level": 1,
+        "stress_level": 1,
+        "notes": ""
+      },
+      {
+        "id": 1764168227774,
+        "timestamp": "2025-11-26T14:43:47.774Z",
+        "mood_score": 1,
+        "energy_level": 1,
+        "stress_level": 1,
+        "notes": ""
+      },
+      {
+        "id": 1764168225623,
+        "timestamp": "2025-11-26T14:43:45.623Z",
+        "mood_score": 1,
+        "energy_level": 1,
+        "stress_level": 1,
+        "notes": ""
+      },
+      {
+        "id": 1764168224065,
+        "timestamp": "2025-11-26T14:43:44.065Z",
+        "mood_score": 1,
+        "energy_level": 1,
+        "stress_level": 1,
+        "notes": ""
+      }
+    ],
+    "metadata": {
+      "count": 10,
+      "timeSpanHours": 15.8,
+      "firstEntry": "2025-11-26T14:43:44.065Z",
+      "lastEntry": "2025-11-27T06:31:54.449Z"
+    }
+  },
+  "vlog_entries": {
+    "dataType": "one_second_vlog",
+    "description": "1秒Vlog錄影記錄 (unstructured active/foreground data)",
+    "records": [
+      {
+        "id": 1764225124416,
+        "timestamp": "2025-11-27T06:32:04.416Z",
+        "video_uri": "f453760d-f34e-4aa2-b0ee-7419b6183237",
+        "duration": 1
+      },
+      {
+        "id": 1764222314631,
+        "timestamp": "2025-11-27T05:45:14.631Z",
+        "video_uri": "361a1ef8-5d99-4b45-a730-9945d308119c",
+        "duration": 1
+      },
+      {
+        "id": 1764203808497,
+        "timestamp": "2025-11-27T00:36:48.497Z",
+        "video_uri": "ca392657-44cb-4c2e-9157-32491d29a178",
+        "duration": 1
+      },
+      {
+        "id": 1764170283629,
+        "timestamp": "2025-11-26T15:18:03.629Z",
+        "video_uri": "1905e718-46eb-4423-8957-d9ef2e8e1ac9",
+        "duration": 1
+      },
+      {
+        "id": 1764170059253,
+        "timestamp": "2025-11-26T15:14:19.253Z",
+        "video_uri": "847c9c42-0f00-4c4d-9641-8e09e8eb00f1",
+        "duration": 1
+      },
+      {
+        "id": 1764169886743,
+        "timestamp": "2025-11-26T15:11:26.742Z",
+        "video_uri": "4155fff4-dc0a-487c-8906-16b8640caf84",
+        "duration": 1
+      },
+      {
+        "id": 1764169305937,
+        "timestamp": "2025-11-26T15:01:45.937Z",
+        "video_uri": "ae8b9874-3c49-4f08-b982-c215a3c6d22c",
+        "duration": 1
+      },
+      {
+        "id": 1764169179360,
+        "timestamp": "2025-11-26T14:59:39.360Z",
+        "video_uri": "6e9d0d9c-c14e-40eb-b494-dc1e3d7484b4",
+        "duration": 1
+      },
+      {
+        "id": 1764169169727,
+        "timestamp": "2025-11-26T14:59:29.727Z",
+        "video_uri": "506877c1-570b-44ab-bb1b-35b293da0d65",
+        "duration": 1
+      },
+      {
+        "id": 1764168684575,
+        "timestamp": "2025-11-26T14:51:24.575Z",
+        "video_uri": "d2e0b02d-8998-4bda-aea4-095cbafe4617",
+        "duration": 1
+      },
+      {
+        "id": 1764168681925,
+        "timestamp": "2025-11-26T14:51:21.925Z",
+        "video_uri": "6a88f3d3-d448-4456-acd0-bef923e8e27a",
+        "duration": 1
+      },
+      {
+        "id": 1764168679500,
+        "timestamp": "2025-11-26T14:51:19.500Z",
+        "video_uri": "8c33834b-5be2-46d5-b663-85e2278fe484",
+        "duration": 1
+      }
+    ],
+    "metadata": {
+      "count": 12,
+      "timeSpanHours": 15.68,
+      "firstEntry": "2025-11-26T14:51:19.500Z",
+      "lastEntry": "2025-11-27T06:32:04.416Z"
+    }
+  },
+  "location_entries": {
+    "dataType": "gps_coordinates",
+    "description": "GPS座標記錄 (structured passive/background data)",
+    "records": [
+      {
+        "id": 1764225117457,
+        "timestamp": "2025-11-27T06:31:57.457Z",
+        "latitude": 25.018746515315488,
+        "longitude": 121.53657123084263,
+        "accuracy": 13.532355770288817
+      },
+      {
+        "id": 1764225117290,
+        "timestamp": "2025-11-27T06:31:57.290Z",
+        "latitude": 25.018746515315488,
+        "longitude": 121.53657123084263,
+        "accuracy": 13.532355770288817
+      },
+      {
+        "id": 1764225117217,
+        "timestamp": "2025-11-27T06:31:57.217Z",
+        "latitude": 25.018746515315488,
+        "longitude": 121.53657123084263,
+        "accuracy": 13.532355770288817
+      },
+      {
+        "id": 1764225117009,
+        "timestamp": "2025-11-27T06:31:57.009Z",
+        "latitude": 25.018746515315488,
+        "longitude": 121.53657123084263,
+        "accuracy": 13.532355770288817
+      },
+      {
+        "id": 1764225116877,
+        "timestamp": "2025-11-27T06:31:56.877Z",
+        "latitude": 25.018746515315488,
+        "longitude": 121.53657123084263,
+        "accuracy": 13.532355770288817
+      },
+      {
+        "id": 1764225116381,
+        "timestamp": "2025-11-27T06:31:56.381Z",
+        "latitude": 25.018746515315488,
+        "longitude": 121.53657123084263,
+        "accuracy": 13.532355770288817
+      },
+      {
+        "id": 1764222320065,
+        "timestamp": "2025-11-27T05:45:20.065Z",
+        "latitude": 25.03614282767589,
+        "longitude": 121.53670291837543,
+        "accuracy": 4.675065945650344
+      },
+      {
+        "id": 1764222319939,
+        "timestamp": "2025-11-27T05:45:19.939Z",
+        "latitude": 25.03614282767589,
+        "longitude": 121.53670291837543,
+        "accuracy": 4.675065945650344
+      },
+      {
+        "id": 1764222319428,
+        "timestamp": "2025-11-27T05:45:19.428Z",
+        "latitude": 25.03614282767589,
+        "longitude": 121.53670291837543,
+        "accuracy": 4.675065945650344
+      },
+      {
+        "id": 1764203803142,
+        "timestamp": "2025-11-27T00:36:43.142Z",
+        "latitude": 25.036080490099273,
+        "longitude": 121.53674974890683,
+        "accuracy": 14.755620313199758
+      },
+      {
+        "id": 1764203803026,
+        "timestamp": "2025-11-27T00:36:43.026Z",
+        "latitude": 25.036080490099273,
+        "longitude": 121.53674974890683,
+        "accuracy": 14.755620313199758
+      },
+      {
+        "id": 1764203802822,
+        "timestamp": "2025-11-27T00:36:42.822Z",
+        "latitude": 25.036080490099273,
+        "longitude": 121.53674974890683,
+        "accuracy": 14.755620313199758
+      },
+      {
+        "id": 1764203802622,
+        "timestamp": "2025-11-27T00:36:42.622Z",
+        "latitude": 25.036080490099273,
+        "longitude": 121.53674974890683,
+        "accuracy": 14.755620313199758
+      },
+      {
+        "id": 1764203801973,
+        "timestamp": "2025-11-27T00:36:41.973Z",
+        "latitude": 25.036080490099273,
+        "longitude": 121.53674974890683,
+        "accuracy": 14.755620313199758
+      },
+      {
+        "id": 1764168691076,
+        "timestamp": "2025-11-26T14:51:31.076Z",
+        "latitude": 25.036151240849634,
+        "longitude": 121.53683875518593,
+        "accuracy": 10.901764131729191
+      },
+      {
+        "id": 1764168690296,
+        "timestamp": "2025-11-26T14:51:30.296Z",
+        "latitude": 25.036151240849634,
+        "longitude": 121.53683875518593,
+        "accuracy": 10.901764131729191
+      },
+      {
+        "id": 1764168689874,
+        "timestamp": "2025-11-26T14:51:29.874Z",
+        "latitude": 25.036151240849634,
+        "longitude": 121.53683875518593,
+        "accuracy": 10.901764131729191
+      },
+      {
+        "id": 1764168689415,
+        "timestamp": "2025-11-26T14:51:29.415Z",
+        "latitude": 25.036151240849634,
+        "longitude": 121.53683875518593,
+        "accuracy": 10.901764131729191
+      }
+    ],
+    "metadata": {
+      "count": 18,
+      "timeSpanHours": 15.67,
+      "firstEntry": "2025-11-26T14:51:29.415Z",
+      "lastEntry": "2025-11-27T06:31:57.457Z"
+    }
+  }
+}
